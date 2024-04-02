@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub+Profile;I+'m+A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
+![](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
+
+ 
  <h1 align="center">👋 Hi , I'm Suraj Lokhande </h1>
 
 
@@ -5,8 +10,8 @@
 <!-- [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=750&lines=Hey++there+%2C+I'm+Suraj+Lokhande)</div>](https://git.io/typing-svg) -->
 
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
-<hr>
+<!--[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg) 
+<hr> --->
 
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)](https://rishavchanda.io)
 
