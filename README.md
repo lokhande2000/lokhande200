@@ -24,7 +24,7 @@
 
 * 🌍  I hail from Shrigonda, Maharashtra.
 * 🔥  Visit my [Portfolio](https://portfolio-website-livid-beta.vercel.app/) for more details.
-  <a target="_blanck" href="https://portfolio-website-livid-beta.vercel.app/">portfolio</a>
+  <a target="_blank" href="https://portfolio-website-livid-beta.vercel.app/">portfolio</a>
 * ✉️  You can contact me at [surajlokhande7744@gmail.com](mailto:surajlokhande7744@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XzugLXcDQD0-j3herrM7OTTfnnqEbCTX/view?usp=sharing](https://drive.google.com/file/d/1XzugLXcDQD0-j3herrM7OTTfnnqEbCTX/view?usp=sharing)
