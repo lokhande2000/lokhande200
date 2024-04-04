@@ -5,7 +5,7 @@
  
  <h1 align="center">👋 Hi , I'm Suraj Lokhande </h1>
 
-
+ 
 
 <!-- [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=750&lines=Hey++there+%2C+I'm+Suraj+Lokhande)</div>](https://git.io/typing-svg) -->
 
