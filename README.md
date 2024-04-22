@@ -30,7 +30,7 @@
 
 <hr>
 
- #### What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h3>
+ #### What do I do? 
  
 <h4>✅ I aspire to work as a programmer.</h4>
 
